@@ -3,8 +3,8 @@ const getData =() => {
     return [
         {
             id:1,
-            name: 'Dimas Saputra',
-            tag: 'dimasmds',
+            name: 'Yudistira',
+            tag: 'Yudis',
             imageUrl:'/images/dimasmds.jpeg',
         },
         {
